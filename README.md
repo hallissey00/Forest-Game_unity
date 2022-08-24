@@ -6,7 +6,7 @@ https://github.com/hallissey00/Forest-Game_unity/blob/main/Forest%20Game%20Assig
 
 # Forest-Game_unity
 
-# Assignment Brief
+## Assignment Brief
 
 This is a 3rd person controller, 3D challenge game, based on a scenario in which the goal is to build an object from tools and components found in the immediate vicinity.
 
@@ -51,7 +51,7 @@ yet challenging.
 Level 2 has slightly more difficult game play than Level 1. Students may copy their Level 1 scene and 
 name it Level 2. 
 
-# Constraints on game play
+## Constraints on game play
 o The user should not be allowed to collect components until they have collected all of the tools for 
 that level.
 o The object under construction should not appear until all items are collected in the correct order.
