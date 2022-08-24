@@ -99,7 +99,7 @@ Audio
 Scripts
 • 3
 
-rd Person Movement Controller Tutorial - https://www.youtube.com/watch?v=4HpC--2iowE
+3rd Person Movement Controller Tutorial - https://www.youtube.com/watch?v=4HpC--2iowE
 
 
 # Play Game
