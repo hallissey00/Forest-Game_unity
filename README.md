@@ -1,3 +1,9 @@
+
+# Play Game
+download this:
+https://github.com/hallissey00/Forest-Game_unity/blob/main/Forest%20Game%20Assignment.exe
+
+
 # Forest-Game_unity
 
 # Assignment Brief
@@ -102,7 +108,4 @@ Scripts
 3rd Person Movement Controller Tutorial - https://www.youtube.com/watch?v=4HpC--2iowE
 
 
-# Play Game
-download this:
-https://github.com/hallissey00/Forest-Game_unity/blob/main/Forest%20Game%20Assignment.exe
 
