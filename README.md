@@ -51,3 +51,53 @@ that level.
 o The object under construction should not appear until all items are collected in the correct order.
 o The level can only be completed by touching the constructed object or by the timer running out.
 o For the sake of testing, the main menu should include a link to all scenes
+
+
+## Game Completed
+Game name: “In the forest”
+Things used in the game
+From Unity
+
+• Text Mesh Pro Package to manage better font display
+
+• Cinemaching Package for better camera logic
+Fonts
+
+• Permanent Marker from Google Fonts, convert the TTF file into a readable front via Text 
+Mesh Pro “Font Asset Creator”
+3D Models
+
+
+From the asset store:
+
+• Fantasy Forest Environment Free Demo – Trees
+
+• AllSky Free - 10 Sky / Skybox Set – Daytime Cartoon Skybox
+
+• Rock and Boulders 2 - Rock Prefabs
+
+• Low Poly Water Pack – Water
+
+• RPG Low poly 
+
+• Pickaxe
+
+• WoodCutting Axe
+
+• Torch
+
+• “EffectsTexturesAndPrefabs” Repurposed the “Shockwave” particles to demonstrate a 
+position of interest.
+
+• Lowpoly Medieval Peasants – For the player character, I then took the FBX file and put into 
+Mixamo to export with animations.
+Audio
+
+• FREE Casual Game SFX Pack
+
+
+Scripts
+• 3
+
+rd Person Movement Controller Tutorial - https://www.youtube.com/watch?v=4HpC--
+2iow
